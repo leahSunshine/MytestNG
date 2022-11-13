@@ -36,8 +36,8 @@
 				<configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>src/main/java/testng.xml</suiteXmlFile>
-						<skipTests>true</skipTests>  
 					</suiteXmlFiles>
+					<skipTests>true</skipTests>  
 				</configuration>
 				<version>2.4</version>
 			</plugin>
